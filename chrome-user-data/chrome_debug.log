@@ -1,0 +1,43 @@
+[11456:16156:1124/161131.131:WARNING:chrome_main_delegate.cc(672)] This is Chrome version 131.0.6778.86 (not a warning)
+[11456:16156:1124/161131.259:INFO:chrome_browser_cloud_management_controller.cc(196)] No machine level policy manager exists.
+[14460:14920:1124/161131.678:WARNING:viz_main_impl.cc(85)] VizNullHypothesis is disabled (not a warning)
+[14460:14920:1124/161131.689:ERROR:direct_composition_support.cc(1034)] QueryInterface to IDCompositionDevice4 failed: No such interface supported (0x80004002)
+[11456:16156:1124/161134.706:INFO:CONSOLE(6)] "Rendering was performed in a subtree hidden by content-visibility.", source: https://www.bing.com/search?q=webdriver&search=&form=QBLH (6)
+[11456:16156:1124/161134.710:INFO:CONSOLE(6)] "Rendering was performed in a subtree hidden by content-visibility.", source: https://www.bing.com/search?q=webdriver&search=&form=QBLH (6)
+[11456:16156:1124/161134.710:INFO:CONSOLE(6)] "Rendering was performed in a subtree hidden by content-visibility.", source: https://www.bing.com/search?q=webdriver&search=&form=QBLH (6)
+[11456:16156:1124/161134.710:INFO:CONSOLE(6)] "Rendering was performed in a subtree hidden by content-visibility.", source: https://www.bing.com/search?q=webdriver&search=&form=QBLH (6)
+[11456:16156:1124/161134.710:INFO:CONSOLE(6)] "Rendering was performed in a subtree hidden by content-visibility.", source: https://www.bing.com/search?q=webdriver&search=&form=QBLH (6)
+[11456:16156:1124/161134.710:INFO:CONSOLE(6)] "Rendering was performed in a subtree hidden by content-visibility.", source: https://www.bing.com/search?q=webdriver&search=&form=QBLH (6)
+[11456:16156:1124/161134.710:INFO:CONSOLE(6)] "Rendering was performed in a subtree hidden by content-visibility.", source: https://www.bing.com/search?q=webdriver&search=&form=QBLH (6)
+[11456:16156:1124/161134.710:INFO:CONSOLE(6)] "Rendering was performed in a subtree hidden by content-visibility.", source: https://www.bing.com/search?q=webdriver&search=&form=QBLH (6)
+[11456:16156:1124/161134.710:INFO:CONSOLE(6)] "Rendering was performed in a subtree hidden by content-visibility.", source: https://www.bing.com/search?q=webdriver&search=&form=QBLH (6)
+[11456:16156:1124/161134.710:INFO:CONSOLE(6)] "Rendering was performed in a subtree hidden by content-visibility.", source: https://www.bing.com/search?q=webdriver&search=&form=QBLH (6)
+[9056:13840:1124/161135.537:WARNING:spdy_session.cc(2975)] Received HEADERS for invalid stream 23
+[9056:13840:1124/161135.537:WARNING:spdy_session.cc(2975)] Received HEADERS for invalid stream 25
+[9056:13840:1124/161135.537:WARNING:spdy_session.cc(2975)] Received HEADERS for invalid stream 27
+[9056:13840:1124/161135.597:WARNING:spdy_session.cc(2975)] Received HEADERS for invalid stream 29
+[9056:13840:1124/161135.597:WARNING:spdy_session.cc(2975)] Received HEADERS for invalid stream 31
+[9056:13840:1124/161135.597:WARNING:spdy_session.cc(2975)] Received HEADERS for invalid stream 33
+[9056:13840:1124/161135.598:WARNING:spdy_session.cc(2975)] Received HEADERS for invalid stream 35
+[9056:13840:1124/161135.598:WARNING:spdy_session.cc(2975)] Received HEADERS for invalid stream 37
+[9056:13840:1124/161135.599:WARNING:spdy_session.cc(2975)] Received HEADERS for invalid stream 39
+[9056:13840:1124/161135.606:WARNING:spdy_session.cc(2975)] Received HEADERS for invalid stream 41
+[9056:13840:1124/161135.606:WARNING:spdy_session.cc(2975)] Received HEADERS for invalid stream 43
+[9056:13840:1124/161135.608:WARNING:spdy_session.cc(2975)] Received HEADERS for invalid stream 45
+[9056:13840:1124/161135.608:WARNING:spdy_session.cc(2975)] Received HEADERS for invalid stream 47
+[9056:13840:1124/161135.609:WARNING:spdy_session.cc(2975)] Received HEADERS for invalid stream 49
+[9056:13840:1124/161135.609:WARNING:spdy_session.cc(2975)] Received HEADERS for invalid stream 51
+[9056:13840:1124/161135.609:WARNING:spdy_session.cc(2975)] Received HEADERS for invalid stream 53
+[9056:13840:1124/161135.610:WARNING:spdy_session.cc(2975)] Received HEADERS for invalid stream 55
+[9056:13840:1124/161135.610:WARNING:spdy_session.cc(2975)] Received HEADERS for invalid stream 57
+[9056:13840:1124/161135.610:WARNING:spdy_session.cc(2975)] Received HEADERS for invalid stream 59
+[9056:13840:1124/161135.614:WARNING:spdy_session.cc(2975)] Received HEADERS for invalid stream 61
+[9056:13840:1124/161135.614:WARNING:spdy_session.cc(2975)] Received HEADERS for invalid stream 63
+[9056:13840:1124/161135.614:WARNING:spdy_session.cc(2975)] Received HEADERS for invalid stream 65
+[9056:13840:1124/161135.615:WARNING:spdy_session.cc(2975)] Received HEADERS for invalid stream 67
+[9056:13840:1124/161135.620:WARNING:spdy_session.cc(2975)] Received HEADERS for invalid stream 69
+[9056:13840:1124/161135.621:WARNING:spdy_session.cc(2975)] Received HEADERS for invalid stream 71
+[11456:16156:1124/161139.692:INFO:CONSOLE(1)] "Listener added for a 'DOMNodeInserted' mutation event. Support for this event type has been removed, and this event will no longer be fired. See https://chromestatus.com/feature/5083947249172480 for more information.", source: https://r.bing.com/rp/eKvcHdnNwo1WcxoSioV4ztnfZk8.br.js (1)
+[11456:16156:1124/161139.692:INFO:CONSOLE(1)] "Listener added for a 'DOMNodeRemoved' mutation event. Support for this event type has been removed, and this event will no longer be fired. See https://chromestatus.com/feature/5083947249172480 for more information.", source: https://r.bing.com/rp/eKvcHdnNwo1WcxoSioV4ztnfZk8.br.js (1)
+[9056:15796:1124/161141.042:WARNING:sqlite_persistent_store_backend_base.cc(198)] Failed to post task from FlushAndNotifyInBackground@net\extras\sqlite\sqlite_persistent_store_backend_base.cc:248 to client_task_runner_.
+[9056:15796:1124/161141.042:WARNING:sqlite_persistent_store_backend_base.cc(198)] Failed to post task from FlushAndNotifyInBackground@net\extras\sqlite\sqlite_persistent_store_backend_base.cc:248 to client_task_runner_.
